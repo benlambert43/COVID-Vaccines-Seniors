@@ -1,10 +1,6 @@
-Links:
+URL Format for downloading as CSV:
+https://docs.google.com/spreadsheets/d/{key}/gviz/tq?tqx=out:csv&sheet={sheet_name}
 
-https://covid19.nj.gov/pages/vaccine
-
-PDF doc:
-https://newjersey.github.io/vaccine-locations/NJ-COVID-19-Vaccine-Locations.pdf
-
-Live Google Drive Spreadsheet:
+Original iFrame source:
 https://newjersey.github.io/vaccine-locations/docs.google.com/spreadsheets/d/e/2PACX-1vTcqpOZ6f6qPD0el8ubrCJ-9NQLMz6_naNMW0nOjfgtHXzyme3FszmhCIvMHN5Lf5fCaVOBr85iHnha/pubhtml.html
 

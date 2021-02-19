@@ -1,0 +1,2 @@
+# COVID-Vaccines-Seniors
+System for automatically tracking, updating and notifying senior citizens about upcoming vaccine appointments. Only seniors and an optional additional family member/friend will be able to utilize this site. Due to the short supply of vaccines and massive amounts of fragmented vaccine appointment websites, non-tech savvy seniors are particularly vulnerable to people taking advantage of the system. This project intends to mitigate some of these issues and help seniors get a vaccine fast. 
